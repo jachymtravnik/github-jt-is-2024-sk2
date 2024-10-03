@@ -1,10 +1,4 @@
 # github-jt-is-2024-sk2
 
-## Změna provedená na lokálním počítači 
-Datum a čas provedení změny: 2024-09-26, 13:27
-
-
-
-
-
-
+## Změna provedena
+Datum a čas provedení změny: 3.10.2024, 13:03
